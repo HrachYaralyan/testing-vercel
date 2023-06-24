@@ -1,0 +1,14 @@
+.shopItemWrapper{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+}
+
+.imgBox{
+    height: 100px;
+}
+
+.imgBox>img{
+    width: 100%;
+    height: 100%;
+}

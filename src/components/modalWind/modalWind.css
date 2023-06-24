@@ -1,0 +1,35 @@
+.modal-wrapper{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #00000068;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-wrapper-none{
+    display: none;
+}
+
+.modal-content{
+    width: 200px;
+    height: 200px;
+    background: #f5f3f3;
+    border: 2px solid red ;
+}
+
+
+/* <div className="modal-wrapper">
+    <div className="modal">
+    <div className="modal-header">
+        <button>Close</button>
+    </div>
+    <div className="modal-main">
+            <h1>Content</h1>
+    </div>
+</div>
+
+</div> */

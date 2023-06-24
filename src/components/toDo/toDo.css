@@ -1,0 +1,11 @@
+.toDoWrapper{
+    width: 500px;
+    border: 1px solid red ;
+}
+.form{
+    border: 1px solid rgb(7, 222, 25) ;
+}
+
+.itemsWrapper{
+    border: 1px solid rgb(24, 25, 24) ;
+}
